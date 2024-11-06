@@ -1,5 +1,8 @@
 # NewsApps
 ## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/WfN0qAbw3Bw/0.jpg)](https://www.youtube.com/watch?v=WfN0qAbw3Bw)
+
+
+
+https://github.com/user-attachments/assets/79b7bdaf-0716-4a0c-be85-b3d58b016d64
 
