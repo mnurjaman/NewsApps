@@ -48,10 +48,5 @@
 <h2>Contributing 🤝</h2>
 <p>We welcome contributions! Feel free to fork the repository, create a new branch, and submit a pull request for any improvements or new features.</p>
 
-<h2>License 📜</h2>
-<p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License" />
-</a> License.</p>
-
 <h2>Contact 📬</h2>
 <p>For any questions or feedback, please reach out to us via <a href="mailto:your-email@example.com">email</a>.</p>
